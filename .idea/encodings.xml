@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/water/hadoop/mapreduce/demo02_wordCount_hbase/InitData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/water/hadoop/mapreduce/demo02_wordCount_hbase/MyMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/water/hadoop/mapreduce/demo02_wordCount_hbase/MyReducer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/water/hadoop/mapreduce/demo02_wordCount_hbase/WordCount.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/water/hadoop/mapreduce/utils/HBaseUtils.java" charset="UTF-8" />
+  </component>
 </project>
