@@ -13,3 +13,6 @@ hs_err_pid*
 /ext-lib/
 /.idea/
 /src/test/
+/mw-mapreduce.iml
+.gitignore
+src/test/
